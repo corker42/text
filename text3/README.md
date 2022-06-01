@@ -1,0 +1,3 @@
+登录与验证码处理所需库
+cookiejar
+pytesseract

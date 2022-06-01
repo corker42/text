@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/跨年代码合集" />
+      <excludeFolder url="file://$MODULE_DIR$/网易云歌单" />
+      <excludeFolder url="file://$MODULE_DIR$/视频爬虫" />
+      <excludeFolder url="file://$MODULE_DIR$/bqg_novel" />
+      <excludeFolder url="file://$MODULE_DIR$/python基础学习" />
+      <excludeFolder url="file://$MODULE_DIR$/京东商品爬虫练习" />
+      <excludeFolder url="file://$MODULE_DIR$/百度接口爬虫" />
+      <excludeFolder url="file://$MODULE_DIR$/线程池爬虫" />
+      <excludeFolder url="file://$MODULE_DIR$/豆瓣电影250" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
